@@ -1157,3 +1157,8 @@
 ||herlinda.ash1.spotify.com^
 ||dd.audio-ak.cdn.spotify.com^
 ||payment-callback.spotify.com^
+||start.spotify.com^
+||img.spotify.com^
+||cf.audio-ak.cdn.spotify.com^
+||89.audio-ak.cdn.spotify.com^
+||go.scdn.co^
