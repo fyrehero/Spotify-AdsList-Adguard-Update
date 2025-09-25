@@ -9,6 +9,7 @@
 ##### Read more: https://github.com/Isaaker/Spotify-AdsList                        ####
 ##### License: https://github.com/Isaaker/Spotify-AdsList/blob/main/LICENSE.txt    ####
 ######################################################################################
+
 ||8f.audio-ak.cdn.spotify.com^
 ||car-staging.scdn.co^
 ||herlinda.ash1.spotify.com^
